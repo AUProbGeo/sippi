@@ -38,7 +38,7 @@ or
     d_std = ones(size(d_obs)).*10;
     errorbar(x,d_obs,d_std)
 
-.. figure:: ../figures/sippi\_linefit\_data\_11.png :alt:
+.. figure:: ../figures/sippi_linefit_data_11.png
 
 The problem is now to infer information about the 3 parameters defining
 a 2nd order polynomium, given the data above.
@@ -128,9 +128,7 @@ One way to implement this as the m-file
 
 ::
 
-::
-
-    % sippi_forward_linefit Line fit forward solver for SIPPI 
+    % sippi_forward_linefit Line fit forward solver for SIPPI
     %
     % [d,forward,prior,data]=sippi_forward_linefit(m,forward,prior,data);
     %
@@ -220,7 +218,7 @@ The figure below show the prior and posterior distribution of the 3
 model parameters, as well as the reference values (used to generate the
 synthetic data set, in green)
 
-.. figure:: /assets/sippi\_linefit\_data\_11\_postmarg.png :alt:
+.. figure:: /assets/sippi_linefit_data_11_postmarg.png
 
 The figure below plots forward response related to the obtained sample
 of the posterior distribution over the model parameters (gray), as well

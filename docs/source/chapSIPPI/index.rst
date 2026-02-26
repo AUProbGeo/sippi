@@ -16,7 +16,7 @@ which requires one to
    ,in form of the prior data structure
 
    This will allow sampling from a variety of geostatistical models,
-   using a unified interface, through ´sippi\_prior.m´
+   using a unified interface, through `sippi\_prior.m`
 
 -  Define the `forward model <#chapforward>`__,
 

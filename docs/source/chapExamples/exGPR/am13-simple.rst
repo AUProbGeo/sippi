@@ -99,11 +99,9 @@ operator (for the linear kernels only) run the following
     sippi_plot_traveltime_kernel(forward,prior); 
 
 .. figure:: /figures/AM13/AM13_SourceReceiverLoc.png
-   :alt: Source-Receiver geometry (om top of a realization from the a
-   priori model
+   :alt: Source-Receiver geometry on top of a realization from the a priori model
 
-   Source-Receiver geometry (om top of a realization from the a priori
-   model
+   Source-Receiver geometry on top of a realization from the a priori model
 
 Testing the setup
 ~~~~~~~~~~~~~~~~~

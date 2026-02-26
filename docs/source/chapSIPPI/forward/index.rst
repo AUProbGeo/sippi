@@ -1,5 +1,5 @@
 ``forward``: The forward model:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The specification of the ``prior`` and ``data`` is intended to be
 generic, applicable to any inverse problem considered. The forward
