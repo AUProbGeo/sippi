@@ -62,7 +62,7 @@ References to other manuscript considered/used in SIPPI is listed in the [Biblio
 
 SIPPI make use of other open software projects such as :
 
-* mGstat : [http://mgstat.sourceforge.net](http://mgstat.sourceforge.net)
+* mGstat : [https://github.com/cultpenguin/mGstat](https://github.com/cultpenguin/mGstat)
 * MPSLib: [https://github.com/ergosimulation/mpslib](https://github.com/ergosimulation/mpslib)
 * VISIM : [http://imgp.nbi.ku.dk/visim.php](http://imgp.nbi.ku.dk/visim.php)
 * Accurate Fast Marching Matlab toolbox : [http://www.mathworks.com/matlabcentral/fileexchange/24531-accurate-fast-marching](http://www.mathworks.com/matlabcentral/fileexchange/24531-accurate-fast-marching)

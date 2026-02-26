@@ -134,7 +134,7 @@ Acknowledgement
 
 SIPPI make use of other open software projects such as :
 
--  mGstat : http://mgstat.sourceforge.net
+-  mGstat : https://github.com/cultpenguin/mGstat
 -  MPSLib: https://github.com/ergosimulation/mpslib
 -  VISIM : http://imgp.nbi.ku.dk/visim.php
 -  Accurate Fast Marching Matlab toolbox :

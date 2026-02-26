@@ -1,24 +1,8 @@
 ### DOCUMENTATION
 
-http://sippi.sourceforge.net/
-
-http://sippi.sourceforge.net/sippi.pdf
-
-http://sippi.sourceforge.net/htmldoc/
+https://sippi.readthedocs.io/
 
 ### INSTALL
-
-#### Latest stable release
-The simplest approach to start using SIPPI is to download the latest SIPPI package from http://sippi.sourceforge.net/
-
-Simply download [SIPPI.zip](https://sourceforge.net/projects/sippi/files/latest/download?source=files), and unzip SIPPI.zip to a folder such as $SIPPI.
-
-Then start Matlab and add the appropriate paths using
-
-     >> addpath $SIPPI
-     >> sippi_set_path
-
-Please go to (http://sippi.sourceforge.net) for examples and details on how to use SIPPI.	
 
 #### Installation from github
 The latest version of SIPPI can be downloaded from github. This is the version the developers use. The documentation is usually slightly outdated compared to the github version. The latest copy of SIPPI, including mGstat and MPSLIB, can be downloaded using (most users of SIPPI would need this):
@@ -51,7 +35,7 @@ Then add a path to both SIPPI, mGstat in Matlab using:
      >> addpath INSTALL_DIR/MPSLIB/matlab
      >> sippi_set_path
 
-See also https://www.gitbook.com/book/cultpenguin/sippi for more details on manual installation.
+See also https://sippi.readthedocs.io/ for more details on manual installation.
 
 ### DIRECTORIES :
 

@@ -2,7 +2,7 @@ Cross hole GPR tomopgraphy using Neural Networks
 ================================================
 
 The example below requires the `SIPPI
-toolbox <http//sippi.sourceforge.net/>`__.
+toolbox <https://sippi.readthedocs.io/>`__.
 
 ::
 
