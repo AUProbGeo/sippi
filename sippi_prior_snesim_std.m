@@ -1,7 +1,6 @@
 % sippi_prior_snesim_std : SNESIM_STD (SGeMS) type Gaussian prior for SIPPI
 %                      
-%                      Requires SGeMS version 2.1b, available from 
-%                      http://sgems.sourceforge.net/?q=node/77
+%                      Requires SGeMS version 2.1b
 % 
 %% Example:
 %    ip=1;

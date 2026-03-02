@@ -1,48 +1,12 @@
 Install SIPPI
 =============
 
-The latest stable version of SIPPI can be downloaded from http://sippi.sourceforge.net as
-`SIPPI.zip <https://sourceforge.net/projects/sippi/files/latest/download?source=files>`__.
-This version includes
-`MGSTAT <https://github.com/cultpenguin/mGstat>`__,
-`VISIM <http://www.sciencedirect.com/science/article/pii/S0098300407001045>`__,
-`SNESIM <https://github.com/SCRFpublic/snesim-standalone>`__, and
-`MPS <https://github.com/ergosimulation/mpslib>`__\ LIB.
+The latest version of SIPPI can be downloaded from
+`github <https://github.com/cultpenguin/sippi>`__. See
+`https://sippi.readthedocs.io/ <https://sippi.readthedocs.io/>`__ for
+documentation and examples.
 
-
----
-
-Unpack ZIPPI.zip somewhere, for example to ``c:\Users\tmh\SIPPI``. Then
-setup the Matlab path to point to the appropriate SIPPI directories by
-typing:
-
-::
-
-    addpath c:\Users\tmh\SIPPI
-    sippi_set_path
-
-| For use on Windows, no other setup should be needed.
-| For use on Linux (Ubuntu 16.10), no other setup should be needed.
-
-For use on OS X, Xcode with gcc libraries but be available to run some
-of the compiled programs. In addition, the ``DYLD_LIBRARY_PATH`` must be
-set to point to the shared libraries neeeded by the compiled programs
-for OSX. In MATLAB this can be set using:
-
-::
-
-    setenv('DYLD_LIBRARY_PATH', '/usr/local/bin');
-
-On OSX (and Linux versions that are binary incompatible with Ubuntu
-16.10) it may be needed to recompile ``MPSlib`` using:
-
-::
-
-    cd SIPPI/toolboxes/mpslib
-    ./configure
-    make all
-
-Install SIPPI manually from github
+Install SIPPI from github
 ----------------------------------
 
 The current development version of SIPPI (less stable and documented) is
@@ -93,8 +57,7 @@ Manual compilation
   (`github <https://github.com/ergosimulation/mpslib/>`__),
 | SNESIM (`github <https://github.com/SCRFpublic/snesim-standalone>`__)
   and
-| VISIM (part of `mGstat <http://mgstat.sourceforge.net/>`__ at
-  `github <https://github.com/cultpenguin/mGstat>`__). Pre-compiled
+| VISIM (part of `mGstat <https://github.com/cultpenguin/mGstat>`__). Pre-compiled
   slef-contained binaries are available for windows and Linux, but for
   use on OS-X one may need to manually these programs.
 
