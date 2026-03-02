@@ -37,8 +37,7 @@ indicates the average velocity along the ray computed using v\_av =
 raylength/d\_obs. AM13 ray coverageAM24 ray coverageAM1234 ray coverage.
 
 .. figure:: ../../figures/arrenaes_raycoverage.png
-   :alt: Ray coverage between wells left) AM1-AM3, middle) AM2-AM4,
-   right)AM1-4.
+   :alt: Ray coverage between wells left) AM1-AM3, middle) AM2-AM4, right)AM1-4.
 
    Ray coverage between wells left) AM1-AM3, middle) AM2-AM4,
    right)AM1-4.

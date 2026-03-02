@@ -3,11 +3,11 @@ Install SIPPI
 
 The latest stable version of SIPPI can be downloaded from http://sippi.sourceforge.net as
 `SIPPI.zip <https://sourceforge.net/projects/sippi/files/latest/download?source=files>`__.
-This version includes 
- `MGSTAT <https://github.com/cultpenguin/mGstat>`__,
- `VISIM <http://www.sciencedirect.com/science/article/pii/S0098300407001045>`__,
- `SNESIM <https://github.com/SCRFpublic/snesim-standalone>`__, and
- `MPS <https://github.com/ergosimulation/mpslib>`__\ LIB.
+This version includes
+`MGSTAT <https://github.com/cultpenguin/mGstat>`__,
+`VISIM <http://www.sciencedirect.com/science/article/pii/S0098300407001045>`__,
+`SNESIM <https://github.com/SCRFpublic/snesim-standalone>`__, and
+`MPS <https://github.com/ergosimulation/mpslib>`__\ LIB.
 
 
 ---

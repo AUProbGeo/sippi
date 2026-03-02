@@ -128,8 +128,6 @@ One way to implement this as the m-file
 
 ::
 
-::
-
     % sippi_forward_linefit Line fit forward solver for SIPPI 
     %
     % [d,forward,prior,data]=sippi_forward_linefit(m,forward,prior,data);
